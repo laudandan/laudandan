@@ -1,4 +1,8 @@
 public @interface Roles {
-    SuperAdmin,
-    Admin
+    public enum Role{
+        SuperAdmin,
+        Admin,
+        Moderator,
+        User
+    }
 }
