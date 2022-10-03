@@ -1,4 +1,3 @@
 public @interface Roles {
-    SuperAdmin,
-    Admin
+    //Nu s-a implementat nimic aici.
 }
