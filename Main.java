@@ -2,7 +2,8 @@
 
 public class Main {
     public static void main(String args[]){
-        System.out.println("Hello world!");
-
+        StringBuilder stringBuilder = new StringBuilder("Sarpele");
+        stringBuilder.append(" Adaugam ceva nou.");
+        System.out.println(stringBuilder);
     }
 }
