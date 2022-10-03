@@ -1,3 +1,8 @@
 public @interface Roles {
-    //Nu s-a implementat nimic aici.
+    public enum Role{
+        SuperAdmin,
+        Admin,
+        Moderator,
+        User
+    }
 }
