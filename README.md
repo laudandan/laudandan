@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @laudandan
 - 👀 I’m interested in developping my skills and also funny actions.
-- 🌱 I’m currently learning ASP.NET CORE and Angular.
+- 🌱 I’m currently learning Flutter.
+- 👷 I'm currently involved in Java projects.
 - 📫 How to reach me: phone: +40770914395
 
 <!---
